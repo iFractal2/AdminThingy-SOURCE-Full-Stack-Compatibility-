@@ -2,7 +2,7 @@
 # AdminThingy Source (created by Ryan Delisle)
 
 
-# The operating system, Linux; the web server, Apache; the database server, MySQL; and the programming language, PHP.
+# Supported by LampStack
 # AdminThingy was designed to be a cross platform language executor to be referenced outside and inside any ROBLOX game the main source is inserted in to.
 It functions as an administrative tool for games, as well as a detailed debugger for in-dev projects.
 It has four interfaces
